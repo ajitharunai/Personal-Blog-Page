@@ -423,7 +423,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/ajith-kumar-murugan5/embed/episodes/AJI-CREAIONS-e1ihuj9/a-a7u8fc5"
+    "https://anchor.fm/ajith-kumar-murugan5/embed/episodes/How-to-improve-positive-things-e1ii0ph/a-a7u8o2v"
   ],
   display: true // Set false to hide this section, defaults to true
 };
