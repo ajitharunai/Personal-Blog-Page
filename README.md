@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
 
-- 💻 View Demo [Personal Portfolio](https://6280916d9cfdfb7752f49e2a--poetic-zuccutto-2e8030.netlify.app/)
+- 💻 View Demo [Personal Portfolio](https://pythonajith.netlify.app/)
 
 - 🔭 I’m currently working on [Web Desing தமிழ் ](https://ajitharunai.github.io/Web-design-in-Tamil-Learning-Web-page/)
 
