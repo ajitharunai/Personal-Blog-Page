@@ -22,7 +22,7 @@ const illustration = {
 const greeting = {
   username: "Aji Creations ",
   title: "Hi all, I'm Ajith Kumar Murugan",
-  subTitle: emoji(
+  subTitle: emoji👨‍💻(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ajitharunai",
-  linkedin: "https://www.linkedin.com/in/ajith-kumar-m-7897541b4/",
+  linkedin: "https://www.linkedin.com/in/ajitharunai/",
   gmail: "ajithkumaraec10@gmail.com",
   gitlab: "https://gitlab.com/ajitharunai",
   facebook: "https://www.facebook.com/ajithkumar.m.9216778",
